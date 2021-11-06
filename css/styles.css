@@ -3,15 +3,15 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
 font-family: 'Montserrat';
 font-weight: 500;
 }
 
 p {
   font-family: "Ubuntu";
-  font-size: 1rem;
-  color: #8f8f8f;
+  font-size: 1.5rem;
+  color: 	#2F4F4F;
   font-weight: 300;
 }
 
@@ -19,9 +19,9 @@ p {
 
 .big-heading {
   font-family: 'Montserrat';
-  font-size: 2rem;
+  font-size: 3.5rem;
   line-height: 1.5;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .center-items {
@@ -29,7 +29,7 @@ p {
 }
 
 .Feature-title {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .price-text {
